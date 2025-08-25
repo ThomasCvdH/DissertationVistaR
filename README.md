@@ -17,7 +17,7 @@ This repository is a pipeline I built for my MSc Bioinformatics project, looking
 
 ## How To Use
 
-1. **Unzip fasta,gtf, and csv files** 
+1. **Unzip fasta,gtf, and csv files**  
    Unzip the files so they can be used in the pipeline. 
    They need to be at the same directory level as the scripts.
 
@@ -57,5 +57,6 @@ This repository is a pipeline I built for my MSc Bioinformatics project, looking
  ## Author
  Thomas Cornelius van der Hoven
  thomasvanderhoven@gmail.com
+
 
 
