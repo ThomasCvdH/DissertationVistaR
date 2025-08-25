@@ -38,7 +38,7 @@ This repository is a pipeline I built for my MSc Bioinformatics project, looking
    - It’ll save new GTF files with the domain info.
 
 6. **Time Series Comparison (Timeseries_cross_day.R)**  
-   - Use the functions here to make dataframes for comparing across days.
+   - The functions here are automatically used to make dataframes for comparing across days if the timeseries datset is selected.
 
 ## Features
 
@@ -57,6 +57,7 @@ This repository is a pipeline I built for my MSc Bioinformatics project, looking
  ## Author
  Thomas Cornelius van der Hoven
  thomasvanderhoven@gmail.com
+
 
 
 
