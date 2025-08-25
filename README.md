@@ -18,8 +18,8 @@ This repository is a pipeline I built for my MSc Bioinformatics project, looking
 ## How To Use
 
 1. **Unzip fasta,gtf, and csv files** 
-   Unzip the files so they can be used in the pipeline. 
-   They need to be at the same directory level as the scripts.
+    Unzip the files so they can be used in the pipeline. 
+    They need to be at the same directory level as the scripts.
 
 2. **Install Packages**  
    The scripts will try to install any R packages you need, but you’ll need an internet connection for this and for the InterProScan API.
