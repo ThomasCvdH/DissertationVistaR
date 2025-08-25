@@ -18,8 +18,8 @@ This repository is a pipeline I built for my MSc Bioinformatics project, looking
 ## How To Use
 
 1. **Unzip fasta,gtf, and csv files** 
-    Unzip the files so they can be used in the pipeline. 
-    They need to be at the same directory level as the scripts.
+   Unzip the files so they can be used in the pipeline. 
+   They need to be at the same directory level as the scripts.
 
 2. **Install Packages**  
    The scripts will try to install any R packages you need, but you’ll need an internet connection for this and for the InterProScan API.
@@ -37,7 +37,7 @@ This repository is a pipeline I built for my MSc Bioinformatics project, looking
    - Run this script to find Myb domains in your transcripts.
    - It’ll save new GTF files with the domain info.
 
-6. **Time Series Comparison (Timeseries cross day.R)**  
+6. **Time Series Comparison (Timeseries_cross_day.R)**  
    - Use the functions here to make dataframes for comparing across days.
 
 ## Features
